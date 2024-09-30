@@ -1,1 +1,2 @@
 Just created a sample file for understanding git and github.
+And added this line for understanding commit!!
